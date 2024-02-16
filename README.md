@@ -2,7 +2,9 @@
 
 ## newlog.bat
 
-cd's into a directory called store and creates a new journal log, then launches notepad for said log.
+Simple journal folder/file creation script.
+
+CD's into store and creates a new journal log, then launches notepad for said log.
 
 Day directory in form YY.MM.DD for example 24.2.16
 
