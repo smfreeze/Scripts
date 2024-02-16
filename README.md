@@ -1,6 +1,6 @@
 # Scripts I use for stuff.
 
-## newlog.bat
+## newlog
 
 Simple journal folder/file creation script.
 
